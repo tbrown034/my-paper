@@ -1,6 +1,6 @@
 export default function Date() {
   return (
-    <section className="border-black border-b2 border-t2">
+    <section className="border-t-2 border-b-2 border-black border-opacity-20 ">
       <p>Aug. 2, 2023</p>
     </section>
   );

@@ -5,7 +5,7 @@ import Footer from "./FrontPage/Footer";
 
 export default function Home() {
   return (
-    <main>
+    <main className="p-4">
       <MobileNav />
       <Date />
       <Advertisements />
